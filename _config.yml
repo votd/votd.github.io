@@ -1,3 +1,4 @@
+permalink: /catalog/:title
 safe: true
 destination: _site
 lsi: false
