@@ -39,7 +39,7 @@ header {
   background: rgba(0, 0, 0, 0.1);
   width: 100%;
   border-bottom: 1px dashed #b5e853;
-  padding: 20px 0;
+  padding: 20px 0px 0px 8px;
   margin: 0 0 40px 0;
 }
 
@@ -66,6 +66,10 @@ header h2 {
   font-size: 18px;
   font-weight: 300;
   color: #666;
+}
+
+#downloads {
+	text-align: center;
 }
 
 #downloads .btn {
