@@ -1,5 +1,6 @@
 ---
 layout: catalog
+title: Hashing without Salt
 ---
 
 Hashing without Salt
