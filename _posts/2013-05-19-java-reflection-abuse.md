@@ -28,9 +28,9 @@ Notes
 
 Running the Demo
 ----------------
-```sh
+{% highlight sh %}
   cd java-reflection-abuse
   make
   make safe
-```
+{% endhighlight %}
 

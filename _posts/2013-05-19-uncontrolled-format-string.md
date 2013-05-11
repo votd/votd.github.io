@@ -29,8 +29,8 @@ Notes
 
 Running the Demo
 ----------------
-```sh
+{% highlight sh %}
   cd format-string
   make
   ruby read-memory.rb
-```
+{% endhighlight %}

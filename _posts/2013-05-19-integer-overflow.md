@@ -29,7 +29,7 @@ Notes
 
 Running the Demo
 ----------------
-```sh
+{% highlight sh %}
   cd integer-overflow
   make
-```
+{% endhighlight %}

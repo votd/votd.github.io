@@ -28,8 +28,8 @@ Notes
 
 Running the Demo
 ----------------
-```sh
+{% highlight sh %}
   cd os-command-injection
   make
-```
+{% endhighlight %}
 

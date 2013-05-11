@@ -33,7 +33,7 @@ Notes
 
 Running the Demo
 ----------------
-```sh
+{% highlight sh %}
   cd log-overflow
   make
-```
+{% endhighlight %}

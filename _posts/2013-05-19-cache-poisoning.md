@@ -30,8 +30,8 @@ Notes
 
 Running the Demo
 ----------------
-```sh
+{% highlight sh %}
   cd cache-poisoning
   make
-```
+{% endhighlight %}
 

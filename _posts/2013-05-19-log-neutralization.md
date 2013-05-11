@@ -31,8 +31,9 @@ Notes
 
 Running the Demo
 ----------------
-```sh
+{% highlight sh %}
   cd log-neutralization
   ./make
-```
+{% endhighlight %}
+
 Note that it's `./make`, not `make`

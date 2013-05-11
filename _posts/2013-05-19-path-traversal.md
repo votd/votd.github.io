@@ -34,7 +34,7 @@ Notes
 
 Running the Demo
 ----------------
-```sh
+{% highlight sh %}
   cd path-traversal
   make
-```
+{% endhighlight %}

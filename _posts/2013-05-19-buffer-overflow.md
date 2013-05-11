@@ -33,8 +33,8 @@ Notes
 
 Running the Demo
 ----------------
-```sh
+{% highlight sh %}
   cd buffer-overflow
   make
-```
+{% endhighlight %}
 

@@ -32,8 +32,8 @@ Notes
 
 Running the Demo
 ----------------
-```sh
+{% highlight sh %}
   cd sql-injection
   make
-```
+{% endhighlight %}
 

@@ -23,10 +23,10 @@ Notes
 
 Running the Demo
 ----------------
-```sh
+{% highlight sh %}
   cd hashing-salt
   make
-```
+{% endhighlight %}
 
 * The given example is an authentication example that demonstrates the different ways you can store a password and still authenticate. User sets their password, which gets salted and then digested (hashed). Every time the user authenticates, the system then salts and digests the password, and checks the results.
 
