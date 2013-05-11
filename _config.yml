@@ -5,4 +5,4 @@ lsi: false
 pygments: true
 baseurl: /
 paginate: 1  
-	
+exclude: [_posts/template.md]
