@@ -1,5 +1,6 @@
 ---
 layout: catalog
+title: OS Command Injection
 ---
 
 OS Command Injection
