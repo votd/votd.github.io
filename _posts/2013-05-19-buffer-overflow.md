@@ -1,3 +1,7 @@
+---
+layout: catalog
+---
+
 Classic Buffer Overflow
 =======================
 
