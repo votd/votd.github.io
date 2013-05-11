@@ -1,5 +1,6 @@
 ---
 layout: catalog
+title: SQL Injection
 ---
 
 SQL Injection
