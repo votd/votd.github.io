@@ -1,3 +1,7 @@
+---
+layout: catalog
+---
+
 Java Reflection Abuse
 =====================
 

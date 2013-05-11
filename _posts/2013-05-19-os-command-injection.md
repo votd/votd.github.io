@@ -1,3 +1,7 @@
+---
+layout: catalog
+---
+
 OS Command Injection
 ====================
 

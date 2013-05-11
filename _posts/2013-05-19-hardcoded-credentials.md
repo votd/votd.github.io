@@ -1,3 +1,6 @@
+---
+layout: catalog
+---
 Hard-Coded Credentials
 ======================
 

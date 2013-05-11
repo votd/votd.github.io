@@ -1,3 +1,7 @@
+---
+layout: catalog
+---
+
 SQL Injection
 =============
 

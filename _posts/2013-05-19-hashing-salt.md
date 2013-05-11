@@ -1,3 +1,7 @@
+---
+layout: catalog
+---
+
 Hashing without Salt
 ====================
 
