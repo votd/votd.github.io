@@ -33,7 +33,4 @@ Notes
 
 Running the Demo
 ----------------
-{% highlight sh %}
-  cd log-overflow
-  make
-{% endhighlight %}
+{% include demo_default.md %}

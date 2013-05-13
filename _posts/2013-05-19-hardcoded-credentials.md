@@ -30,8 +30,5 @@ Notes
 
 Running the Demo
 ----------------
-{% highlight sh %}
-  cd hardcoded-credentials
-  make
-{% endhighlight %}
+{% include demo_default.md %}
 

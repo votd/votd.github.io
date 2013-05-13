@@ -29,8 +29,5 @@ Notes
 
 Running the Demo
 ----------------
-{% highlight sh %}
-  cd os-command-injection
-  make
-{% endhighlight %}
+{% include demo_default.md %}
 

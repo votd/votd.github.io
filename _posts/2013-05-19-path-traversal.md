@@ -34,7 +34,4 @@ Notes
 
 Running the Demo
 ----------------
-{% highlight sh %}
-  cd path-traversal
-  make
-{% endhighlight %}
+{% include demo_default.md %}

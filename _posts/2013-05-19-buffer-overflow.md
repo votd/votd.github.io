@@ -33,8 +33,5 @@ Notes
 
 Running the Demo
 ----------------
-{% highlight sh %}
-  cd buffer-overflow
-  make
-{% endhighlight %}
+{% include demo_default.md %}
 

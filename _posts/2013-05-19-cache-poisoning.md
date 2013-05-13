@@ -30,8 +30,5 @@ Notes
 
 Running the Demo
 ----------------
-{% highlight sh %}
-  cd cache-poisoning
-  make
-{% endhighlight %}
+{% include demo_default.md %}
 

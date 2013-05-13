@@ -33,8 +33,5 @@ Notes
 
 Running the Demo
 ----------------
-{% highlight sh %}
-  cd sql-injection
-  make
-{% endhighlight %}
+{% include demo_default.md %}
 

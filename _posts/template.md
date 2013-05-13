@@ -1,5 +1,7 @@
 ---
 layout: catalog
+title: VotD Template
+slug: votd-template
 ---
 
 Title of This VotD
@@ -28,8 +30,5 @@ Notes
 
 Running the Demo
 ----------------
-```sh
-  cd this-votd
-  make
-```
+{% include demo_default.md %}
 

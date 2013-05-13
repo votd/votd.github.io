@@ -29,7 +29,4 @@ Notes
 
 Running the Demo
 ----------------
-{% highlight sh %}
-  cd integer-overflow
-  make
-{% endhighlight %}
+{% include demo_default.md %}
