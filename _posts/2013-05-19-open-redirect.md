@@ -1,5 +1,6 @@
 ---
 layout: catalog
+tags: web
 ---
 
 Open Redirect
