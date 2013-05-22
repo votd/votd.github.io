@@ -10,4 +10,4 @@ This work has been published, here's the citation:
 
 Andrew Meneely and Samuel Lucidi. _Vulnerability of the Day: Concrete Demonstrations for Software Engineering Undergraduates_, Int'l Conference on Software Engineering, Software Engineering Education Track, May 2013.
 
-[Slides from the presentation at ICSE 2013](Vulnerability of the Day.pptx)
+[Slides from the presentation at ICSE 2013](votd.pptx)
